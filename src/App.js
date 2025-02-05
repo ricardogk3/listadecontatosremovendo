@@ -3,6 +3,7 @@ import './App.css';
 import React from 'react';
 import Sauda from './componentesdeteste/comp1';
 import Stateseventos from './componentesdeteste/Stateseventos'
+import Listadecontatos from './componentesdeteste/Listadecontatos';
 
 function App() {
   const elemento = <h1> Teste react</h1>
@@ -10,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        {/* <img src={logo} className="App-logo" alt="logo" /> */}
 
         {/* {elemento} */}
         {/* {elemento2} */}
@@ -18,7 +19,8 @@ function App() {
         {/* <Sauda  fulaninho = {"miguel"} n= '12'/> */}
         {/* <Sauda  fulaninho = {"estela"} n= '15'/> */}
         {/* <Sauda  fulaninho = {"vivian"} n= '105'/> */}
-        <Stateseventos/>
+        {/* <Stateseventos/> */}
+        <Listadecontatos/>
 
 
 
