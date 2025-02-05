@@ -1,3 +1,13 @@
+📅 Semana 2 - React Avançado e Projeto Final
+✅🗓 Dia 6 - Organização de Componentes e Reuso (4-5h)
+✅ Como dividir código em componentes reutilizáveis?
+ ✅Props vs. State
+ ✅Criando um pequeno projeto de lista de contatos usando props e useState
+
+✅🎯 Tarefa: Criar uma lista que exibe contatos e permite remover cada contato ao clicar em um botão
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
